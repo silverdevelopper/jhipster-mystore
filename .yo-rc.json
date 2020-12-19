@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.silversoft.mystore",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "mystore",
+    "packageName": "com.silversoft.mystore",
+    "packageFolder": "com/silversoft/mystore",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NWM0MTU3ODg0YzQ0ZGJmYzM4MTM2ZGJjODM3MjY1MWEzNjcwODY2MzAzZDIzYmNhNGE2YzQ2N2Y1ZTYwNTk5NzYyNzcwMzY4OWQ0ZTBhYzljOGExMzQ1NTEwYTc0NjAzMDY5Y2RkNjJhNDdlMjIxMDEyNzBmM2YzMDBkNjdhOTg=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "journal",
+    "clientThemeVariant": "dark",
+    "creationTimestamp": 1608379217081,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en"],
+    "blueprints": []
+  }
+}
